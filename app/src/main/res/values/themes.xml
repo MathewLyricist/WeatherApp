@@ -1,0 +1,13 @@
+<resources>
+    <!-- Base application theme. -->
+    <style name="Base.Theme.WeatherApp" parent="Theme.Material3.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name ="colorOnPrimary">@color/white</item>
+        <item name ="windowActionBar">false</item>
+        <item name ="windowNoTitle">true</item>
+    </style>
+
+    <color name="purple_500">#640779</color>
+    <color name="purple_700">#59086B</color>
+</resources>
